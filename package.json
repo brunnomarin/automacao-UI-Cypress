@@ -4,7 +4,7 @@
   "description": "Exercício - Módulo 11",
   "main": "index.js",
   "scripts": {
-    "cy:run": "npm cypress run"
+    "cy:run": "npx cypress run"
   },
   "keywords": [],
   "author": "",
